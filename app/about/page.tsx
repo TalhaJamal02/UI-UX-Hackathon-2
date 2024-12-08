@@ -138,7 +138,7 @@ function AboutPage() {
           <div className="flex flex-col justify-evenly items-start gap-4 md:gap-6 text-center md:text-left">
             <p className="text-xs md:text-sm tracking-wide text-white">WORK WITH US</p>
             <h1 className="text-[28px] md:text-[40px] font-bold text-white leading-tight md:leading-snug">
-              Now Let's grow Yours
+              Now Lets grow Yours
             </h1>
             <p className="text-sm md:text-base leading-relaxed max-w-[300px] md:max-w-[400px] text-white">
               The gradual accumulation of information about atomic and small-scale behavior during the first quarter of the 20th.
