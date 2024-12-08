@@ -1,4 +1,4 @@
-import { AlertTriangle, ChevronRight, Eye, Heart, ShoppingCart } from 'lucide-react'
+import { ChevronRight, Eye, Heart, ShoppingCart } from 'lucide-react'
 import React from 'react'
 import Image from 'next/image'
 
