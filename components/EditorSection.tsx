@@ -5,7 +5,7 @@ function EditorSection() {
   return (
     <div>
       <div className=' text-center mb-10'>
-        <h1 className=' text-2xl font-bold text-[#252B42] '>EDITOR'S PICK</h1>
+        <h1 className=' text-2xl font-bold text-[#252B42] '>EDITORS PICK</h1>
         <p className=' text-[#737373] mt-3'>Problems trying to resolve the conflict between </p>
       </div>
 
