@@ -18,9 +18,9 @@ function FeaturedPostCard({ imgSrc }: Card) {
       <div className=' w-[328px] flex flex-col gap-4'>
         <p className=' text-sm pt-4 text-[#737373]'><span className='text-[#8EC2F2]'>Google </span> Trending New</p>
         <h1 className='text-[20px] text-[#252B42]'>Loudest à la Madison #1
-          (L'integral)</h1>
+          (Lintegral)</h1>
         <p className=' text-[#737373]'>We focus on ergonomics and meeting
-          you where you work. It's only a
+          you where you work. Its only a
           keystroke away.</p>
         <div className=' flex flex-row items-center gap-3  '>
           <AlarmClockIcon className=' h-4 w-4 text-[#23A6F0]' />
